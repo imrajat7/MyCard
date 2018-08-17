@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Card</string>
+    <string name="title">ID CARD</string>
+    <string name="nameField">Name:</string>
+    <string name="name">Rajat Sharma</string>
+    <string name="ageField">Age:</string>
+    <string name="age">20 yrs</string>
+    <string name="college_field">College: </string>
+    <string name="college">Chitkara University</string>
+    <string name="skillsField">Skills:</string>
+    <string name="skills">C,C++,Java,Android,Git,SQL,HTML</string>
+</resources>
